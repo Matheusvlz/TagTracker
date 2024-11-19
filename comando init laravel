@@ -1,0 +1,14 @@
+php artisan serve --host=0.0.0.0 --port=8000
+
+http://192.168.0.130:8000/
+
+ip link show
+
+sudo ifconfig enp0s3 up
+
+sudo ifconfig enp0s3 192.168.0.130 netmask 255.255.255.0 up
+
+
+matheus@gmail.com
+
+1234567

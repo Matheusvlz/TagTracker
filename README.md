@@ -3,6 +3,7 @@ TagTracker Gerenciamento de Estoque com RFID
 📚 Descrição do Projeto
 
 Desenvolvimento de um sistema para gerenciamento e controle de estoque utilizando tecnologia RFID, interligando o Arduino a um site moderno e de fácil usabilidade. O site utiliza uma API em Laravel para comunicação entre o site, Arduino e o banco de dados PostgreSQL virtualizado em um contêiner Docker. O Arduino é utilizado para leitura e envio do UID para a API em Laravel, que também permite a consulta das informações das etiquetas RFID. Cada tag RFID é vinculada a um produto, o que possibilita alto nível de rastreabilidade e controle de cada item em estoque.
+
 👥 Equipe e Funções
 
     Matheus Vilela Reis dos Santos

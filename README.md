@@ -125,11 +125,10 @@ Este projeto está licenciado sob a MIT License.
 📫 Contato
 
     Matheus Vilela Reis dos Santos
-        Email: matheus@example.com
-    Otávio Henrique Nascimento de Souza
-        Email: otavio@example.com
+        Email: matheus.santos343@fatec.sp.gov.br
+
 
 📝 Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+dados todos os direitos sobre desing ao HTML CODEX
 
